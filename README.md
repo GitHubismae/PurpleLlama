@@ -1,4 +1,4 @@
-<p align="center">
+Ismael De Camargo Rosa"<p align="center">
   <img src="https://github.com/facebookresearch/PurpleLlama/blob/main/logo.png" width="400"/>
 </p>
 
